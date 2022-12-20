@@ -1,3 +1,5 @@
+``` python
+
 from asyncio.windows_events import NULL
 from operator import le
 # from ipData import *
@@ -54,3 +56,4 @@ for a in range(minall,maxall+1):
                             print(a,b,c,d,e,saveall)
 
 print(a,b,c,d,e,saveall)
+```
